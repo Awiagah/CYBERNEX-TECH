@@ -566,7 +566,7 @@
     <header>
         <div class="container nav-container">
             <div class="logo">
-                <div class="logo-img"><img src="images/cyberlogo.jpg" class="logo "></div>
+                <div class="logo-img"><img src="logo.jpg" class="logo "></div>
                 <div class="logo-text"><span class="X">CYBERNEX TECH</span> </div>
             </div>
             <button class="mobile-menu-btn">
@@ -587,7 +587,7 @@
     <section id="home" class="hero">
         <div class="container">
             <h1>Awiagah Ajapa Timothy</h1>
-            <p>IT Student | Front-End Developer | Graphic Designer | Cybersecurity Specialist</p>
+            <p>IT Student | Front-End Developer | Graphic Designer | Cybersecurity junior</p>
             <p>Providing professional web development, graphic design, and cybersecurity solutions</p>
             <div class="hero-btns">
                 <a href="#portfolio" class="btn">View My Work</a>
@@ -602,7 +602,7 @@
             <h2>About Me</h2>
             <div class="about-content">
                 <div class="profile-img-container">
-                    <div class="profile-img"><img src="images/prof.jpg"  class="profile-img" ></div>
+                    <div class="profile-img"><img src="prof.jpg"  class="profile-img" ></div>
                 </div>
                 <div class="about-text">
                     <p>I'm <strong>Awiagah Ajapa Timothy</strong>, a dedicated IT student at <strong>Ghana Communication Technology University</strong> with expertise in both creative design and technical development. I specialize in creating professional websites, graphic designs, and providing cybersecurity solutions.</p>
